@@ -1,0 +1,2379 @@
+quebra_linha,"\n",1,18
+quebra_linha,"\n",2,29
+quebra_linha,"\n",3,30
+quebra_linha,"\n",4,0
+espaco," ",5,4
+abre_parenteses,"(",5,16
+espaco," ",5,23
+virgula,",",5,31
+espaco," ",5,32
+espaco," ",5,36
+fecha_parenteses,")",5,45
+abre_chaves,"{",5,46
+quebra_linha,"\n",5,47
+espaco," ",6,0
+espaco," ",6,1
+espaco," ",6,2
+espaco," ",6,3
+espaco," ",6,14
+espaco," ",6,16
+ponto_virgula,";",6,25
+quebra_linha,"\n",6,26
+espaco," ",7,0
+espaco," ",7,1
+espaco," ",7,2
+espaco," ",7,3
+espaco," ",7,25
+espaco," ",7,27
+ponto_virgula,";",7,29
+quebra_linha,"\n",7,30
+espaco," ",8,0
+espaco," ",8,1
+espaco," ",8,2
+espaco," ",8,3
+abre_parenteses,"(",8,16
+fecha_parenteses,")",8,23
+ponto_virgula,";",8,24
+quebra_linha,"\n",8,25
+fecha_chaves,"}",9,0
+quebra_linha,"\n",9,1
+quebra_linha,"\n",10,0
+espaco," ",11,4
+abre_parenteses,"(",11,23
+espaco," ",11,38
+virgula,",",11,54
+espaco," ",11,55
+espaco," ",11,59
+virgula,",",11,71
+espaco," ",11,72
+espaco," ",11,77
+fecha_parenteses,")",11,87
+abre_chaves,"{",11,88
+quebra_linha,"\n",11,89
+espaco," ",12,0
+espaco," ",12,1
+espaco," ",12,2
+espaco," ",12,3
+quebra_linha,"\n",12,41
+fecha_chaves,"}",13,0
+quebra_linha,"\n",13,1
+quebra_linha,"\n",14,0
+espaco," ",15,4
+abre_parenteses,"(",15,28
+espaco," ",15,43
+virgula,",",15,59
+espaco," ",15,60
+espaco," ",15,65
+virgula,",",15,71
+espaco," ",15,72
+espaco," ",15,76
+virgula,",",15,84
+espaco," ",15,85
+espaco," ",15,90
+virgula,",",15,111
+espaco," ",15,112
+espaco," ",15,123
+fecha_parenteses,")",15,135
+abre_chaves,"{",15,136
+quebra_linha,"\n",15,137
+espaco," ",16,0
+espaco," ",16,1
+espaco," ",16,2
+espaco," ",16,3
+espaco," ",16,7
+ponto_virgula,";",16,9
+quebra_linha,"\n",16,10
+espaco," ",17,0
+espaco," ",17,1
+espaco," ",17,2
+espaco," ",17,3
+espaco," ",17,13
+espaco," ",17,18
+espaco," ",17,20
+abre_colchetes,"[",17,44
+fecha_colchetes,"]",17,72
+ponto,".",17,73
+ponto_virgula,";",17,82
+quebra_linha,"\n",17,83
+espaco," ",18,0
+espaco," ",18,1
+espaco," ",18,2
+espaco," ",18,3
+espaco," ",18,7
+espaco," ",18,13
+espaco," ",18,15
+ponto_virgula,";",18,17
+quebra_linha,"\n",18,18
+espaco," ",19,0
+espaco," ",19,1
+espaco," ",19,2
+espaco," ",19,3
+abre_parenteses,"(",19,7
+ponto_virgula,";",19,11
+abre_colchetes,"[",19,37
+fecha_colchetes,"]",19,65
+ponto,".",19,66
+ponto_virgula,";",19,80
+fecha_parenteses,")",19,84
+abre_chaves,"{",19,85
+quebra_linha,"\n",19,86
+espaco," ",20,0
+espaco," ",20,1
+espaco," ",20,2
+espaco," ",20,3
+espaco," ",20,4
+espaco," ",20,5
+espaco," ",20,6
+espaco," ",20,7
+espaco," ",20,11
+ponto_virgula,";",20,13
+quebra_linha,"\n",20,14
+espaco," ",21,0
+espaco," ",21,1
+espaco," ",21,2
+espaco," ",21,3
+espaco," ",21,4
+espaco," ",21,5
+espaco," ",21,6
+espaco," ",21,7
+abre_parenteses,"(",21,11
+ponto_virgula,";",21,15
+abre_colchetes,"[",21,29
+fecha_colchetes,"]",21,31
+ponto_virgula,";",21,38
+fecha_parenteses,")",21,42
+abre_chaves,"{",21,43
+quebra_linha,"\n",21,44
+espaco," ",22,0
+espaco," ",22,1
+espaco," ",22,2
+espaco," ",22,3
+espaco," ",22,4
+espaco," ",22,5
+espaco," ",22,6
+espaco," ",22,7
+espaco," ",22,8
+espaco," ",22,9
+espaco," ",22,10
+espaco," ",22,11
+abre_parenteses,"(",22,14
+abre_colchetes,"[",22,28
+fecha_colchetes,"]",22,30
+espaco," ",22,31
+espaco," ",22,34
+fecha_parenteses,")",22,40
+abre_chaves,"{",22,41
+quebra_linha,"\n",22,42
+espaco," ",23,0
+espaco," ",23,1
+espaco," ",23,2
+espaco," ",23,3
+espaco," ",23,4
+espaco," ",23,5
+espaco," ",23,6
+espaco," ",23,7
+espaco," ",23,8
+espaco," ",23,9
+espaco," ",23,10
+espaco," ",23,11
+espaco," ",23,12
+espaco," ",23,13
+espaco," ",23,14
+espaco," ",23,15
+espaco," ",23,43
+espaco," ",23,45
+ponto_virgula,";",23,64
+quebra_linha,"\n",23,65
+espaco," ",24,0
+espaco," ",24,1
+espaco," ",24,2
+espaco," ",24,3
+espaco," ",24,4
+espaco," ",24,5
+espaco," ",24,6
+espaco," ",24,7
+espaco," ",24,8
+espaco," ",24,9
+espaco," ",24,10
+espaco," ",24,11
+espaco," ",24,12
+espaco," ",24,13
+espaco," ",24,14
+espaco," ",24,15
+abre_parenteses,"(",24,18
+abre_parenteses,"(",24,25
+virgula,",",24,35
+fecha_parenteses,")",24,41
+espaco," ",24,42
+espaco," ",24,45
+fecha_parenteses,")",24,50
+abre_chaves,"{",24,51
+quebra_linha,"\n",24,52
+espaco," ",25,0
+espaco," ",25,1
+espaco," ",25,2
+espaco," ",25,3
+espaco," ",25,4
+espaco," ",25,5
+espaco," ",25,6
+espaco," ",25,7
+espaco," ",25,8
+espaco," ",25,9
+espaco," ",25,10
+espaco," ",25,11
+espaco," ",25,12
+espaco," ",25,13
+espaco," ",25,14
+espaco," ",25,15
+espaco," ",25,16
+espaco," ",25,17
+espaco," ",25,18
+espaco," ",25,19
+abre_parenteses,"(",25,27
+virgula,",",25,34
+virgula,",",25,41
+virgula,",",25,48
+fecha_parenteses,")",25,54
+ponto_virgula,";",25,55
+quebra_linha,"\n",25,56
+espaco," ",26,0
+espaco," ",26,1
+espaco," ",26,2
+espaco," ",26,3
+espaco," ",26,4
+espaco," ",26,5
+espaco," ",26,6
+espaco," ",26,7
+espaco," ",26,8
+espaco," ",26,9
+espaco," ",26,10
+espaco," ",26,11
+espaco," ",26,12
+espaco," ",26,13
+espaco," ",26,14
+espaco," ",26,15
+fecha_chaves,"}",26,16
+abre_chaves,"{",26,21
+quebra_linha,"\n",26,22
+espaco," ",27,0
+espaco," ",27,1
+espaco," ",27,2
+espaco," ",27,3
+espaco," ",27,4
+espaco," ",27,5
+espaco," ",27,6
+espaco," ",27,7
+espaco," ",27,8
+espaco," ",27,9
+espaco," ",27,10
+espaco," ",27,11
+espaco," ",27,12
+espaco," ",27,13
+espaco," ",27,14
+espaco," ",27,15
+espaco," ",27,16
+espaco," ",27,17
+espaco," ",27,18
+espaco," ",27,19
+abre_parenteses,"(",27,36
+virgula,",",27,51
+virgula,",",27,70
+fecha_parenteses,")",27,81
+ponto_virgula,";",27,82
+quebra_linha,"\n",27,83
+espaco," ",28,0
+espaco," ",28,1
+espaco," ",28,2
+espaco," ",28,3
+espaco," ",28,4
+espaco," ",28,5
+espaco," ",28,6
+espaco," ",28,7
+espaco," ",28,8
+espaco," ",28,9
+espaco," ",28,10
+espaco," ",28,11
+espaco," ",28,12
+espaco," ",28,13
+espaco," ",28,14
+espaco," ",28,15
+espaco," ",28,16
+espaco," ",28,17
+espaco," ",28,18
+espaco," ",28,19
+quebra_linha,"\n",28,20
+espaco," ",29,0
+espaco," ",29,1
+espaco," ",29,2
+espaco," ",29,3
+espaco," ",29,4
+espaco," ",29,5
+espaco," ",29,6
+espaco," ",29,7
+espaco," ",29,8
+espaco," ",29,9
+espaco," ",29,10
+espaco," ",29,11
+espaco," ",29,12
+espaco," ",29,13
+espaco," ",29,14
+espaco," ",29,15
+espaco," ",29,16
+espaco," ",29,17
+espaco," ",29,18
+espaco," ",29,19
+abre_parenteses,"(",29,22
+abre_colchetes,"[",29,46
+fecha_colchetes,"]",29,74
+ponto,".",29,75
+espaco," ",29,81
+espaco," ",29,84
+fecha_parenteses,")",29,86
+abre_chaves,"{",29,87
+quebra_linha,"\n",29,88
+espaco," ",30,0
+espaco," ",30,1
+espaco," ",30,2
+espaco," ",30,3
+espaco," ",30,4
+espaco," ",30,5
+espaco," ",30,6
+espaco," ",30,7
+espaco," ",30,8
+espaco," ",30,9
+espaco," ",30,10
+espaco," ",30,11
+espaco," ",30,12
+espaco," ",30,13
+espaco," ",30,14
+espaco," ",30,15
+espaco," ",30,16
+espaco," ",30,17
+espaco," ",30,18
+espaco," ",30,19
+espaco," ",30,20
+espaco," ",30,21
+espaco," ",30,22
+espaco," ",30,23
+abre_parenteses,"(",30,31
+virgula,",",30,38
+virgula,",",30,43
+fecha_parenteses,")",30,49
+ponto_virgula,";",30,50
+espaco," ",30,51
+espaco," ",30,52
+espaco," ",30,53
+espaco," ",30,54
+quebra_linha,"\n",30,55
+espaco," ",31,0
+espaco," ",31,1
+espaco," ",31,2
+espaco," ",31,3
+espaco," ",31,4
+espaco," ",31,5
+espaco," ",31,6
+espaco," ",31,7
+espaco," ",31,8
+espaco," ",31,9
+espaco," ",31,10
+espaco," ",31,11
+espaco," ",31,12
+espaco," ",31,13
+espaco," ",31,14
+espaco," ",31,15
+espaco," ",31,16
+espaco," ",31,17
+espaco," ",31,18
+espaco," ",31,19
+espaco," ",31,20
+espaco," ",31,21
+espaco," ",31,22
+espaco," ",31,23
+abre_parenteses,"(",31,40
+virgula,",",31,55
+virgula,",",31,74
+fecha_parenteses,")",31,85
+ponto_virgula,";",31,86
+quebra_linha,"\n",31,87
+espaco," ",32,0
+espaco," ",32,1
+espaco," ",32,2
+espaco," ",32,3
+espaco," ",32,4
+espaco," ",32,5
+espaco," ",32,6
+espaco," ",32,7
+espaco," ",32,8
+espaco," ",32,9
+espaco," ",32,10
+espaco," ",32,11
+espaco," ",32,12
+espaco," ",32,13
+espaco," ",32,14
+espaco," ",32,15
+espaco," ",32,16
+espaco," ",32,17
+espaco," ",32,18
+espaco," ",32,19
+fecha_chaves,"}",32,20
+abre_chaves,"{",32,25
+quebra_linha,"\n",32,26
+espaco," ",33,0
+espaco," ",33,1
+espaco," ",33,2
+espaco," ",33,3
+espaco," ",33,4
+espaco," ",33,5
+espaco," ",33,6
+espaco," ",33,7
+espaco," ",33,8
+espaco," ",33,9
+espaco," ",33,10
+espaco," ",33,11
+espaco," ",33,12
+espaco," ",33,13
+espaco," ",33,14
+espaco," ",33,15
+espaco," ",33,16
+espaco," ",33,17
+espaco," ",33,18
+espaco," ",33,19
+espaco," ",33,20
+espaco," ",33,21
+espaco," ",33,22
+espaco," ",33,23
+abre_parenteses,"(",33,31
+virgula,",",33,38
+virgula,",",33,45
+virgula,",",33,52
+fecha_parenteses,")",33,58
+ponto_virgula,";",33,59
+quebra_linha,"\n",33,60
+espaco," ",34,0
+espaco," ",34,1
+espaco," ",34,2
+espaco," ",34,3
+espaco," ",34,4
+espaco," ",34,5
+espaco," ",34,6
+espaco," ",34,7
+espaco," ",34,8
+espaco," ",34,9
+espaco," ",34,10
+espaco," ",34,11
+espaco," ",34,12
+espaco," ",34,13
+espaco," ",34,14
+espaco," ",34,15
+espaco," ",34,16
+espaco," ",34,17
+espaco," ",34,18
+espaco," ",34,19
+fecha_chaves,"}",34,20
+quebra_linha,"\n",34,21
+espaco," ",35,0
+espaco," ",35,1
+espaco," ",35,2
+espaco," ",35,3
+espaco," ",35,4
+espaco," ",35,5
+espaco," ",35,6
+espaco," ",35,7
+espaco," ",35,8
+espaco," ",35,9
+espaco," ",35,10
+espaco," ",35,11
+espaco," ",35,12
+espaco," ",35,13
+espaco," ",35,14
+espaco," ",35,15
+fecha_chaves,"}",35,16
+quebra_linha,"\n",35,17
+espaco," ",36,0
+espaco," ",36,1
+espaco," ",36,2
+espaco," ",36,3
+espaco," ",36,4
+espaco," ",36,5
+espaco," ",36,6
+espaco," ",36,7
+espaco," ",36,8
+espaco," ",36,9
+espaco," ",36,10
+espaco," ",36,11
+espaco," ",36,12
+espaco," ",36,13
+espaco," ",36,14
+espaco," ",36,15
+espaco," ",36,21
+espaco," ",36,23
+ponto_virgula,";",36,25
+quebra_linha,"\n",36,26
+espaco," ",37,0
+espaco," ",37,1
+espaco," ",37,2
+espaco," ",37,3
+espaco," ",37,4
+espaco," ",37,5
+espaco," ",37,6
+espaco," ",37,7
+espaco," ",37,8
+espaco," ",37,9
+espaco," ",37,10
+espaco," ",37,11
+espaco," ",37,12
+espaco," ",37,13
+espaco," ",37,14
+espaco," ",37,15
+ponto_virgula,";",37,21
+quebra_linha,"\n",37,22
+espaco," ",38,0
+espaco," ",38,1
+espaco," ",38,2
+espaco," ",38,3
+espaco," ",38,4
+espaco," ",38,5
+espaco," ",38,6
+espaco," ",38,7
+espaco," ",38,8
+espaco," ",38,9
+espaco," ",38,10
+espaco," ",38,11
+fecha_chaves,"}",38,12
+quebra_linha,"\n",38,13
+espaco," ",39,0
+espaco," ",39,1
+espaco," ",39,2
+espaco," ",39,3
+espaco," ",39,4
+espaco," ",39,5
+espaco," ",39,6
+espaco," ",39,7
+fecha_chaves,"}",39,8
+quebra_linha,"\n",39,9
+espaco," ",40,0
+espaco," ",40,1
+espaco," ",40,2
+espaco," ",40,3
+espaco," ",40,4
+espaco," ",40,5
+espaco," ",40,6
+espaco," ",40,7
+abre_parenteses,"(",40,10
+fecha_parenteses,")",40,16
+abre_chaves,"{",40,17
+quebra_linha,"\n",40,18
+espaco," ",41,0
+espaco," ",41,1
+espaco," ",41,2
+espaco," ",41,3
+espaco," ",41,4
+espaco," ",41,5
+espaco," ",41,6
+espaco," ",41,7
+espaco," ",41,8
+espaco," ",41,9
+espaco," ",41,10
+espaco," ",41,11
+ponto_virgula,";",41,17
+quebra_linha,"\n",41,18
+espaco," ",42,0
+espaco," ",42,1
+espaco," ",42,2
+espaco," ",42,3
+espaco," ",42,4
+espaco," ",42,5
+espaco," ",42,6
+espaco," ",42,7
+fecha_chaves,"}",42,8
+quebra_linha,"\n",42,9
+espaco," ",43,0
+espaco," ",43,1
+espaco," ",43,2
+espaco," ",43,3
+espaco," ",43,4
+espaco," ",43,5
+espaco," ",43,6
+espaco," ",43,7
+espaco," ",43,11
+espaco," ",43,13
+ponto_virgula,";",43,26
+quebra_linha,"\n",43,27
+espaco," ",44,0
+espaco," ",44,1
+espaco," ",44,2
+espaco," ",44,3
+fecha_chaves,"}",44,4
+quebra_linha,"\n",44,5
+espaco," ",45,0
+espaco," ",45,1
+espaco," ",45,2
+espaco," ",45,3
+quebra_linha,"\n",45,17
+espaco," ",46,0
+espaco," ",46,1
+espaco," ",46,2
+espaco," ",46,3
+quebra_linha,"\n",46,25
+espaco," ",47,0
+espaco," ",47,1
+espaco," ",47,2
+espaco," ",47,3
+quebra_linha,"\n",47,7
+quebra_linha,"\n",48,0
+espaco," ",49,0
+espaco," ",49,1
+espaco," ",49,2
+espaco," ",49,3
+abre_parenteses,"(",49,6
+abre_parenteses,"(",49,7
+fecha_parenteses,")",49,14
+espaco," ",49,15
+espaco," ",49,18
+abre_parenteses,"(",49,19
+espaco," ",49,47
+espaco," ",49,50
+fecha_parenteses,")",49,52
+fecha_parenteses,")",49,53
+abre_chaves,"{",49,54
+quebra_linha,"\n",49,55
+espaco," ",50,0
+espaco," ",50,1
+espaco," ",50,2
+espaco," ",50,3
+espaco," ",50,4
+espaco," ",50,5
+espaco," ",50,6
+espaco," ",50,7
+espaco," ",50,35
+espaco," ",50,37
+ponto_virgula,";",50,39
+quebra_linha,"\n",50,40
+espaco," ",51,0
+espaco," ",51,1
+espaco," ",51,2
+espaco," ",51,3
+espaco," ",51,4
+espaco," ",51,5
+espaco," ",51,6
+espaco," ",51,7
+espaco," ",51,11
+espaco," ",51,13
+abre_colchetes,"[",51,37
+fecha_colchetes,"]",51,65
+ponto,".",51,66
+ponto_virgula,";",51,75
+quebra_linha,"\n",51,76
+espaco," ",52,0
+espaco," ",52,1
+espaco," ",52,2
+espaco," ",52,3
+espaco," ",52,4
+espaco," ",52,5
+espaco," ",52,6
+espaco," ",52,7
+abre_parenteses,"(",52,24
+virgula,",",52,39
+virgula,",",52,58
+fecha_parenteses,")",52,69
+ponto_virgula,";",52,70
+quebra_linha,"\n",52,71
+espaco," ",53,0
+espaco," ",53,1
+espaco," ",53,2
+espaco," ",53,3
+espaco," ",53,4
+espaco," ",53,5
+espaco," ",53,6
+espaco," ",53,7
+abre_parenteses,"(",53,14
+virgula,",",53,21
+fecha_parenteses,")",53,26
+ponto_virgula,";",53,27
+quebra_linha,"\n",53,28
+quebra_linha,"\n",54,0
+espaco," ",55,0
+espaco," ",55,1
+espaco," ",55,2
+espaco," ",55,3
+espaco," ",55,4
+espaco," ",55,5
+espaco," ",55,6
+espaco," ",55,7
+abre_parenteses,"(",55,11
+ponto_virgula,";",55,15
+abre_colchetes,"[",55,41
+fecha_colchetes,"]",55,69
+ponto,".",55,70
+ponto_virgula,";",55,84
+fecha_parenteses,")",55,88
+abre_chaves,"{",55,89
+quebra_linha,"\n",55,90
+espaco," ",56,0
+espaco," ",56,1
+espaco," ",56,2
+espaco," ",56,3
+espaco," ",56,4
+espaco," ",56,5
+espaco," ",56,6
+espaco," ",56,7
+espaco," ",56,8
+espaco," ",56,9
+espaco," ",56,10
+espaco," ",56,11
+espaco," ",56,15
+ponto_virgula,";",56,17
+quebra_linha,"\n",56,18
+espaco," ",57,0
+espaco," ",57,1
+espaco," ",57,2
+espaco," ",57,3
+espaco," ",57,4
+espaco," ",57,5
+espaco," ",57,6
+espaco," ",57,7
+espaco," ",57,8
+espaco," ",57,9
+espaco," ",57,10
+espaco," ",57,11
+abre_parenteses,"(",57,15
+ponto_virgula,";",57,19
+abre_colchetes,"[",57,33
+fecha_colchetes,"]",57,35
+ponto_virgula,";",57,42
+fecha_parenteses,")",57,46
+abre_chaves,"{",57,47
+quebra_linha,"\n",57,48
+espaco," ",58,0
+espaco," ",58,1
+espaco," ",58,2
+espaco," ",58,3
+espaco," ",58,4
+espaco," ",58,5
+espaco," ",58,6
+espaco," ",58,7
+espaco," ",58,8
+espaco," ",58,9
+espaco," ",58,10
+espaco," ",58,11
+espaco," ",58,12
+espaco," ",58,13
+espaco," ",58,14
+espaco," ",58,15
+abre_parenteses,"(",58,18
+abre_colchetes,"[",58,32
+fecha_colchetes,"]",58,34
+espaco," ",58,35
+espaco," ",58,38
+fecha_parenteses,")",58,44
+abre_chaves,"{",58,45
+quebra_linha,"\n",58,46
+espaco," ",59,0
+espaco," ",59,1
+espaco," ",59,2
+espaco," ",59,3
+espaco," ",59,4
+espaco," ",59,5
+espaco," ",59,6
+espaco," ",59,7
+espaco," ",59,8
+espaco," ",59,9
+espaco," ",59,10
+espaco," ",59,11
+espaco," ",59,12
+espaco," ",59,13
+espaco," ",59,14
+espaco," ",59,15
+espaco," ",59,16
+espaco," ",59,17
+espaco," ",59,18
+espaco," ",59,19
+espaco," ",59,47
+espaco," ",59,49
+ponto_virgula,";",59,68
+quebra_linha,"\n",59,69
+espaco," ",60,0
+espaco," ",60,1
+espaco," ",60,2
+espaco," ",60,3
+espaco," ",60,4
+espaco," ",60,5
+espaco," ",60,6
+espaco," ",60,7
+espaco," ",60,8
+espaco," ",60,9
+espaco," ",60,10
+espaco," ",60,11
+espaco," ",60,12
+espaco," ",60,13
+espaco," ",60,14
+espaco," ",60,15
+espaco," ",60,16
+espaco," ",60,17
+espaco," ",60,18
+espaco," ",60,19
+abre_parenteses,"(",60,22
+abre_parenteses,"(",60,29
+virgula,",",60,39
+fecha_parenteses,")",60,45
+espaco," ",60,46
+espaco," ",60,49
+fecha_parenteses,")",60,54
+abre_chaves,"{",60,55
+quebra_linha,"\n",60,56
+espaco," ",61,0
+espaco," ",61,1
+espaco," ",61,2
+espaco," ",61,3
+espaco," ",61,4
+espaco," ",61,5
+espaco," ",61,6
+espaco," ",61,7
+espaco," ",61,8
+espaco," ",61,9
+espaco," ",61,10
+espaco," ",61,11
+espaco," ",61,12
+espaco," ",61,13
+espaco," ",61,14
+espaco," ",61,15
+espaco," ",61,16
+espaco," ",61,17
+espaco," ",61,18
+espaco," ",61,19
+espaco," ",61,20
+espaco," ",61,21
+espaco," ",61,22
+espaco," ",61,23
+abre_parenteses,"(",61,31
+virgula,",",61,38
+virgula,",",61,45
+virgula,",",61,52
+fecha_parenteses,")",61,58
+ponto_virgula,";",61,59
+quebra_linha,"\n",61,60
+espaco," ",62,0
+espaco," ",62,1
+espaco," ",62,2
+espaco," ",62,3
+espaco," ",62,4
+espaco," ",62,5
+espaco," ",62,6
+espaco," ",62,7
+espaco," ",62,8
+espaco," ",62,9
+espaco," ",62,10
+espaco," ",62,11
+espaco," ",62,12
+espaco," ",62,13
+espaco," ",62,14
+espaco," ",62,15
+espaco," ",62,16
+espaco," ",62,17
+espaco," ",62,18
+espaco," ",62,19
+fecha_chaves,"}",62,20
+abre_chaves,"{",62,25
+quebra_linha,"\n",62,26
+espaco," ",63,0
+espaco," ",63,1
+espaco," ",63,2
+espaco," ",63,3
+espaco," ",63,4
+espaco," ",63,5
+espaco," ",63,6
+espaco," ",63,7
+espaco," ",63,8
+espaco," ",63,9
+espaco," ",63,10
+espaco," ",63,11
+espaco," ",63,12
+espaco," ",63,13
+espaco," ",63,14
+espaco," ",63,15
+espaco," ",63,16
+espaco," ",63,17
+espaco," ",63,18
+espaco," ",63,19
+espaco," ",63,20
+espaco," ",63,21
+espaco," ",63,22
+espaco," ",63,23
+abre_parenteses,"(",63,40
+virgula,",",63,55
+virgula,",",63,74
+fecha_parenteses,")",63,85
+ponto_virgula,";",63,86
+quebra_linha,"\n",63,87
+espaco," ",64,0
+espaco," ",64,1
+espaco," ",64,2
+espaco," ",64,3
+espaco," ",64,4
+espaco," ",64,5
+espaco," ",64,6
+espaco," ",64,7
+espaco," ",64,8
+espaco," ",64,9
+espaco," ",64,10
+espaco," ",64,11
+espaco," ",64,12
+espaco," ",64,13
+espaco," ",64,14
+espaco," ",64,15
+espaco," ",64,16
+espaco," ",64,17
+espaco," ",64,18
+espaco," ",64,19
+espaco," ",64,20
+espaco," ",64,21
+espaco," ",64,22
+espaco," ",64,23
+quebra_linha,"\n",64,24
+espaco," ",65,0
+espaco," ",65,1
+espaco," ",65,2
+espaco," ",65,3
+espaco," ",65,4
+espaco," ",65,5
+espaco," ",65,6
+espaco," ",65,7
+espaco," ",65,8
+espaco," ",65,9
+espaco," ",65,10
+espaco," ",65,11
+espaco," ",65,12
+espaco," ",65,13
+espaco," ",65,14
+espaco," ",65,15
+espaco," ",65,16
+espaco," ",65,17
+espaco," ",65,18
+espaco," ",65,19
+espaco," ",65,20
+espaco," ",65,21
+espaco," ",65,22
+espaco," ",65,23
+abre_parenteses,"(",65,26
+abre_colchetes,"[",65,50
+fecha_colchetes,"]",65,78
+ponto,".",65,79
+espaco," ",65,85
+espaco," ",65,88
+fecha_parenteses,")",65,90
+abre_chaves,"{",65,91
+quebra_linha,"\n",65,92
+espaco," ",66,0
+espaco," ",66,1
+espaco," ",66,2
+espaco," ",66,3
+espaco," ",66,4
+espaco," ",66,5
+espaco," ",66,6
+espaco," ",66,7
+espaco," ",66,8
+espaco," ",66,9
+espaco," ",66,10
+espaco," ",66,11
+espaco," ",66,12
+espaco," ",66,13
+espaco," ",66,14
+espaco," ",66,15
+espaco," ",66,16
+espaco," ",66,17
+espaco," ",66,18
+espaco," ",66,19
+espaco," ",66,20
+espaco," ",66,21
+espaco," ",66,22
+espaco," ",66,23
+espaco," ",66,24
+espaco," ",66,25
+espaco," ",66,26
+espaco," ",66,27
+abre_parenteses,"(",66,35
+virgula,",",66,42
+virgula,",",66,47
+fecha_parenteses,")",66,53
+ponto_virgula,";",66,54
+espaco," ",66,55
+espaco," ",66,56
+espaco," ",66,57
+espaco," ",66,58
+quebra_linha,"\n",66,59
+espaco," ",67,0
+espaco," ",67,1
+espaco," ",67,2
+espaco," ",67,3
+espaco," ",67,4
+espaco," ",67,5
+espaco," ",67,6
+espaco," ",67,7
+espaco," ",67,8
+espaco," ",67,9
+espaco," ",67,10
+espaco," ",67,11
+espaco," ",67,12
+espaco," ",67,13
+espaco," ",67,14
+espaco," ",67,15
+espaco," ",67,16
+espaco," ",67,17
+espaco," ",67,18
+espaco," ",67,19
+espaco," ",67,20
+espaco," ",67,21
+espaco," ",67,22
+espaco," ",67,23
+espaco," ",67,24
+espaco," ",67,25
+espaco," ",67,26
+espaco," ",67,27
+abre_parenteses,"(",67,44
+virgula,",",67,59
+virgula,",",67,78
+fecha_parenteses,")",67,89
+ponto_virgula,";",67,90
+quebra_linha,"\n",67,91
+espaco," ",68,0
+espaco," ",68,1
+espaco," ",68,2
+espaco," ",68,3
+espaco," ",68,4
+espaco," ",68,5
+espaco," ",68,6
+espaco," ",68,7
+espaco," ",68,8
+espaco," ",68,9
+espaco," ",68,10
+espaco," ",68,11
+espaco," ",68,12
+espaco," ",68,13
+espaco," ",68,14
+espaco," ",68,15
+espaco," ",68,16
+espaco," ",68,17
+espaco," ",68,18
+espaco," ",68,19
+espaco," ",68,20
+espaco," ",68,21
+espaco," ",68,22
+espaco," ",68,23
+fecha_chaves,"}",68,24
+abre_chaves,"{",68,29
+quebra_linha,"\n",68,30
+espaco," ",69,0
+espaco," ",69,1
+espaco," ",69,2
+espaco," ",69,3
+espaco," ",69,4
+espaco," ",69,5
+espaco," ",69,6
+espaco," ",69,7
+espaco," ",69,8
+espaco," ",69,9
+espaco," ",69,10
+espaco," ",69,11
+espaco," ",69,12
+espaco," ",69,13
+espaco," ",69,14
+espaco," ",69,15
+espaco," ",69,16
+espaco," ",69,17
+espaco," ",69,18
+espaco," ",69,19
+espaco," ",69,20
+espaco," ",69,21
+espaco," ",69,22
+espaco," ",69,23
+espaco," ",69,24
+espaco," ",69,25
+espaco," ",69,26
+espaco," ",69,27
+abre_parenteses,"(",69,35
+virgula,",",69,42
+virgula,",",69,49
+virgula,",",69,56
+fecha_parenteses,")",69,62
+ponto_virgula,";",69,63
+quebra_linha,"\n",69,64
+espaco," ",70,0
+espaco," ",70,1
+espaco," ",70,2
+espaco," ",70,3
+espaco," ",70,4
+espaco," ",70,5
+espaco," ",70,6
+espaco," ",70,7
+espaco," ",70,8
+espaco," ",70,9
+espaco," ",70,10
+espaco," ",70,11
+espaco," ",70,12
+espaco," ",70,13
+espaco," ",70,14
+espaco," ",70,15
+espaco," ",70,16
+espaco," ",70,17
+espaco," ",70,18
+espaco," ",70,19
+espaco," ",70,20
+espaco," ",70,21
+espaco," ",70,22
+espaco," ",70,23
+fecha_chaves,"}",70,24
+quebra_linha,"\n",70,25
+espaco," ",71,0
+espaco," ",71,1
+espaco," ",71,2
+espaco," ",71,3
+espaco," ",71,4
+espaco," ",71,5
+espaco," ",71,6
+espaco," ",71,7
+espaco," ",71,8
+espaco," ",71,9
+espaco," ",71,10
+espaco," ",71,11
+espaco," ",71,12
+espaco," ",71,13
+espaco," ",71,14
+espaco," ",71,15
+espaco," ",71,16
+espaco," ",71,17
+espaco," ",71,18
+espaco," ",71,19
+fecha_chaves,"}",71,20
+quebra_linha,"\n",71,21
+espaco," ",72,0
+espaco," ",72,1
+espaco," ",72,2
+espaco," ",72,3
+espaco," ",72,4
+espaco," ",72,5
+espaco," ",72,6
+espaco," ",72,7
+espaco," ",72,8
+espaco," ",72,9
+espaco," ",72,10
+espaco," ",72,11
+espaco," ",72,12
+espaco," ",72,13
+espaco," ",72,14
+espaco," ",72,15
+espaco," ",72,16
+espaco," ",72,17
+espaco," ",72,18
+espaco," ",72,19
+espaco," ",72,25
+espaco," ",72,27
+ponto_virgula,";",72,29
+quebra_linha,"\n",72,30
+espaco," ",73,0
+espaco," ",73,1
+espaco," ",73,2
+espaco," ",73,3
+espaco," ",73,4
+espaco," ",73,5
+espaco," ",73,6
+espaco," ",73,7
+espaco," ",73,8
+espaco," ",73,9
+espaco," ",73,10
+espaco," ",73,11
+espaco," ",73,12
+espaco," ",73,13
+espaco," ",73,14
+espaco," ",73,15
+espaco," ",73,16
+espaco," ",73,17
+espaco," ",73,18
+espaco," ",73,19
+ponto_virgula,";",73,25
+quebra_linha,"\n",73,26
+espaco," ",74,0
+espaco," ",74,1
+espaco," ",74,2
+espaco," ",74,3
+espaco," ",74,4
+espaco," ",74,5
+espaco," ",74,6
+espaco," ",74,7
+espaco," ",74,8
+espaco," ",74,9
+espaco," ",74,10
+espaco," ",74,11
+espaco," ",74,12
+espaco," ",74,13
+espaco," ",74,14
+espaco," ",74,15
+fecha_chaves,"}",74,16
+quebra_linha,"\n",74,17
+espaco," ",75,0
+espaco," ",75,1
+espaco," ",75,2
+espaco," ",75,3
+espaco," ",75,4
+espaco," ",75,5
+espaco," ",75,6
+espaco," ",75,7
+espaco," ",75,8
+espaco," ",75,9
+espaco," ",75,10
+espaco," ",75,11
+fecha_chaves,"}",75,12
+quebra_linha,"\n",75,13
+espaco," ",76,0
+espaco," ",76,1
+espaco," ",76,2
+espaco," ",76,3
+espaco," ",76,4
+espaco," ",76,5
+espaco," ",76,6
+espaco," ",76,7
+espaco," ",76,8
+espaco," ",76,9
+espaco," ",76,10
+espaco," ",76,11
+abre_parenteses,"(",76,14
+fecha_parenteses,")",76,20
+abre_chaves,"{",76,21
+quebra_linha,"\n",76,22
+espaco," ",77,0
+espaco," ",77,1
+espaco," ",77,2
+espaco," ",77,3
+espaco," ",77,4
+espaco," ",77,5
+espaco," ",77,6
+espaco," ",77,7
+espaco," ",77,8
+espaco," ",77,9
+espaco," ",77,10
+espaco," ",77,11
+espaco," ",77,12
+espaco," ",77,13
+espaco," ",77,14
+espaco," ",77,15
+ponto_virgula,";",77,21
+quebra_linha,"\n",77,22
+espaco," ",78,0
+espaco," ",78,1
+espaco," ",78,2
+espaco," ",78,3
+espaco," ",78,4
+espaco," ",78,5
+espaco," ",78,6
+espaco," ",78,7
+espaco," ",78,8
+espaco," ",78,9
+espaco," ",78,10
+espaco," ",78,11
+fecha_chaves,"}",78,12
+quebra_linha,"\n",78,13
+espaco," ",79,0
+espaco," ",79,1
+espaco," ",79,2
+espaco," ",79,3
+espaco," ",79,4
+espaco," ",79,5
+espaco," ",79,6
+espaco," ",79,7
+espaco," ",79,8
+espaco," ",79,9
+espaco," ",79,10
+espaco," ",79,11
+espaco," ",79,15
+espaco," ",79,17
+ponto_virgula,";",79,30
+quebra_linha,"\n",79,31
+espaco," ",80,0
+espaco," ",80,1
+espaco," ",80,2
+espaco," ",80,3
+espaco," ",80,4
+espaco," ",80,5
+espaco," ",80,6
+espaco," ",80,7
+fecha_chaves,"}",80,8
+quebra_linha,"\n",80,9
+espaco," ",81,0
+espaco," ",81,1
+espaco," ",81,2
+espaco," ",81,3
+espaco," ",81,4
+espaco," ",81,5
+espaco," ",81,6
+espaco," ",81,7
+abre_parenteses,"(",81,10
+fecha_parenteses,")",81,17
+abre_chaves,"{",81,18
+quebra_linha,"\n",81,19
+espaco," ",82,0
+espaco," ",82,1
+espaco," ",82,2
+espaco," ",82,3
+espaco," ",82,4
+espaco," ",82,5
+espaco," ",82,6
+espaco," ",82,7
+espaco," ",82,8
+espaco," ",82,9
+espaco," ",82,10
+espaco," ",82,11
+abre_parenteses,"(",82,12
+fecha_parenteses,")",82,20
+espaco," ",82,21
+espaco," ",82,23
+ponto_virgula,";",82,25
+espaco," ",82,26
+quebra_linha,"\n",82,27
+espaco," ",83,0
+espaco," ",83,1
+espaco," ",83,2
+espaco," ",83,3
+espaco," ",83,4
+espaco," ",83,5
+espaco," ",83,6
+espaco," ",83,7
+fecha_chaves,"}",83,8
+quebra_linha,"\n",83,9
+espaco," ",84,0
+espaco," ",84,1
+espaco," ",84,2
+espaco," ",84,3
+fecha_chaves,"}",84,4
+quebra_linha,"\n",84,5
+fecha_chaves,"}",85,0
+quebra_linha,"\n",85,1
+quebra_linha,"\n",86,0
+quebra_linha,"\n",87,0
+quebra_linha,"\n",88,0
+espaco," ",89,4
+abre_parenteses,"(",89,20
+espaco," ",89,35
+fecha_parenteses,")",89,51
+abre_chaves,"{",89,52
+quebra_linha,"\n",89,53
+espaco," ",90,0
+espaco," ",90,1
+espaco," ",90,2
+espaco," ",90,3
+abre_parenteses,"(",90,18
+virgula,",",90,33
+fecha_parenteses,")",90,35
+ponto_virgula,";",90,36
+quebra_linha,"\n",90,37
+espaco," ",91,0
+espaco," ",91,1
+espaco," ",91,2
+espaco," ",91,3
+abre_parenteses,"(",91,16
+abre_colchetes,"[",91,41
+fecha_colchetes,"]",91,43
+virgula,",",91,44
+virgula,",",110,49
+fecha_parenteses,")",110,52
+ponto_virgula,";",110,53
+quebra_linha,"\n",110,54
+espaco," ",111,0
+espaco," ",111,1
+espaco," ",111,2
+espaco," ",111,3
+abre_parenteses,"(",111,16
+abre_colchetes,"[",111,41
+fecha_colchetes,"]",111,43
+virgula,",",111,44
+virgula,",",111,48
+fecha_parenteses,")",111,51
+ponto_virgula,";",111,52
+quebra_linha,"\n",111,53
+espaco," ",112,0
+espaco," ",112,1
+espaco," ",112,2
+espaco," ",112,3
+abre_parenteses,"(",112,16
+abre_colchetes,"[",112,41
+fecha_colchetes,"]",112,43
+virgula,",",112,44
+quebra_linha,"\n",112,53
+espaco," ",113,0
+espaco," ",113,1
+espaco," ",113,2
+espaco," ",113,3
+quebra_linha,"\n",113,4
+quebra_linha,"\n",114,0
+espaco," ",115,0
+espaco," ",115,1
+espaco," ",115,2
+espaco," ",115,3
+abre_parenteses,"(",115,16
+abre_colchetes,"[",115,41
+fecha_colchetes,"]",115,43
+virgula,",",115,44
+virgula,",",115,50
+fecha_parenteses,")",115,52
+ponto_virgula,";",115,53
+quebra_linha,"\n",115,54
+espaco," ",116,0
+espaco," ",116,1
+espaco," ",116,2
+espaco," ",116,3
+abre_parenteses,"(",116,16
+abre_colchetes,"[",116,41
+fecha_colchetes,"]",116,43
+virgula,",",116,44
+ponto,".",121,46
+virgula,",",165,50
+fecha_parenteses,")",165,52
+ponto_virgula,";",165,53
+quebra_linha,"\n",165,54
+espaco," ",166,0
+espaco," ",166,1
+espaco," ",166,2
+espaco," ",166,3
+abre_parenteses,"(",166,16
+abre_colchetes,"[",166,41
+fecha_colchetes,"]",166,44
+virgula,",",166,45
+virgula,",",166,49
+fecha_parenteses,")",166,52
+ponto_virgula,";",166,53
+quebra_linha,"\n",166,54
+espaco," ",167,0
+espaco," ",167,1
+espaco," ",167,2
+espaco," ",167,3
+abre_parenteses,"(",167,16
+abre_colchetes,"[",167,41
+fecha_colchetes,"]",167,44
+virgula,",",167,45
+virgula,",",167,51
+fecha_parenteses,")",167,54
+ponto_virgula,";",167,55
+quebra_linha,"\n",167,56
+espaco," ",168,0
+espaco," ",168,1
+espaco," ",168,2
+espaco," ",168,3
+abre_parenteses,"(",168,16
+abre_colchetes,"[",168,41
+fecha_colchetes,"]",168,44
+virgula,",",168,45
+virgula,",",168,54
+fecha_parenteses,")",168,57
+ponto_virgula,";",168,58
+quebra_linha,"\n",168,59
+espaco," ",169,0
+espaco," ",169,1
+espaco," ",169,2
+espaco," ",169,3
+abre_parenteses,"(",169,16
+abre_colchetes,"[",169,41
+fecha_colchetes,"]",169,44
+virgula,",",169,45
+virgula,",",169,55
+fecha_parenteses,")",169,58
+ponto_virgula,";",169,59
+quebra_linha,"\n",169,60
+espaco," ",170,0
+espaco," ",170,1
+espaco," ",170,2
+espaco," ",170,3
+abre_parenteses,"(",170,16
+abre_colchetes,"[",170,41
+fecha_colchetes,"]",170,44
+virgula,",",170,45
+virgula,",",170,52
+fecha_parenteses,")",170,55
+ponto_virgula,";",170,56
+quebra_linha,"\n",170,57
+espaco," ",171,0
+espaco," ",171,1
+espaco," ",171,2
+espaco," ",171,3
+quebra_linha,"\n",171,4
+espaco," ",172,0
+espaco," ",172,1
+espaco," ",172,2
+espaco," ",172,3
+abre_parenteses,"(",172,16
+abre_colchetes,"[",172,41
+fecha_colchetes,"]",172,44
+virgula,",",172,45
+virgula,",",172,51
+fecha_parenteses,")",172,54
+ponto_virgula,";",172,55
+quebra_linha,"\n",172,56
+espaco," ",173,0
+espaco," ",173,1
+espaco," ",173,2
+espaco," ",173,3
+abre_parenteses,"(",173,16
+abre_colchetes,"[",173,41
+fecha_colchetes,"]",173,44
+virgula,",",173,45
+virgula,",",173,54
+fecha_parenteses,")",173,57
+ponto_virgula,";",173,58
+quebra_linha,"\n",173,59
+espaco," ",174,0
+espaco," ",174,1
+espaco," ",174,2
+espaco," ",174,3
+abre_parenteses,"(",174,16
+abre_colchetes,"[",174,41
+fecha_colchetes,"]",174,44
+virgula,",",174,45
+virgula,",",174,55
+fecha_parenteses,")",174,58
+ponto_virgula,";",174,59
+quebra_linha,"\n",174,60
+espaco," ",175,0
+espaco," ",175,1
+espaco," ",175,2
+espaco," ",175,3
+abre_parenteses,"(",175,16
+abre_colchetes,"[",175,41
+fecha_colchetes,"]",175,44
+virgula,",",175,45
+virgula,",",175,52
+fecha_parenteses,")",175,55
+ponto_virgula,";",175,56
+quebra_linha,"\n",175,57
+espaco," ",176,0
+espaco," ",176,1
+espaco," ",176,2
+espaco," ",176,3
+abre_parenteses,"(",176,16
+abre_colchetes,"[",176,41
+fecha_colchetes,"]",176,44
+virgula,",",176,45
+virgula,",",176,49
+fecha_parenteses,")",176,52
+ponto_virgula,";",176,53
+quebra_linha,"\n",176,54
+espaco," ",177,0
+espaco," ",177,1
+espaco," ",177,2
+espaco," ",177,3
+abre_parenteses,"(",177,16
+abre_colchetes,"[",177,41
+fecha_colchetes,"]",177,44
+virgula,",",177,45
+virgula,",",177,50
+fecha_parenteses,")",177,53
+ponto_virgula,";",177,54
+quebra_linha,"\n",177,55
+espaco," ",178,0
+espaco," ",178,1
+espaco," ",178,2
+espaco," ",178,3
+abre_parenteses,"(",178,16
+abre_colchetes,"[",178,41
+fecha_colchetes,"]",178,44
+virgula,",",178,45
+virgula,",",178,50
+fecha_parenteses,")",178,53
+ponto_virgula,";",178,54
+quebra_linha,"\n",178,55
+quebra_linha,"\n",179,0
+espaco," ",180,0
+espaco," ",180,1
+espaco," ",180,2
+espaco," ",180,3
+abre_parenteses,"(",180,16
+abre_colchetes,"[",180,41
+fecha_colchetes,"]",180,44
+virgula,",",180,45
+virgula,",",180,51
+fecha_parenteses,")",180,54
+ponto_virgula,";",180,55
+quebra_linha,"\n",180,56
+espaco," ",181,0
+espaco," ",181,1
+espaco," ",181,2
+espaco," ",181,3
+abre_parenteses,"(",181,16
+abre_colchetes,"[",181,41
+fecha_colchetes,"]",181,44
+virgula,",",181,45
+virgula,",",181,54
+fecha_parenteses,")",181,57
+ponto_virgula,";",181,58
+quebra_linha,"\n",181,59
+espaco," ",182,0
+espaco," ",182,1
+espaco," ",182,2
+espaco," ",182,3
+abre_parenteses,"(",182,16
+abre_colchetes,"[",182,41
+fecha_colchetes,"]",182,44
+virgula,",",182,45
+virgula,",",182,55
+fecha_parenteses,")",182,58
+ponto_virgula,";",182,59
+quebra_linha,"\n",182,60
+espaco," ",183,0
+espaco," ",183,1
+espaco," ",183,2
+espaco," ",183,3
+abre_parenteses,"(",183,16
+abre_colchetes,"[",183,41
+fecha_colchetes,"]",183,44
+virgula,",",183,45
+virgula,",",183,52
+fecha_parenteses,")",183,55
+ponto_virgula,";",183,56
+quebra_linha,"\n",183,57
+espaco," ",184,0
+espaco," ",184,1
+espaco," ",184,2
+espaco," ",184,3
+abre_parenteses,"(",184,16
+abre_colchetes,"[",184,41
+fecha_colchetes,"]",184,44
+virgula,",",184,45
+virgula,",",184,49
+fecha_parenteses,")",184,52
+ponto_virgula,";",184,53
+quebra_linha,"\n",184,54
+espaco," ",185,0
+espaco," ",185,1
+espaco," ",185,2
+espaco," ",185,3
+abre_parenteses,"(",185,16
+abre_colchetes,"[",185,41
+fecha_colchetes,"]",185,44
+virgula,",",185,45
+virgula,",",185,50
+fecha_parenteses,")",185,53
+ponto_virgula,";",185,54
+quebra_linha,"\n",185,55
+espaco," ",186,0
+espaco," ",186,1
+espaco," ",186,2
+espaco," ",186,3
+abre_parenteses,"(",186,16
+abre_colchetes,"[",186,41
+fecha_colchetes,"]",186,44
+virgula,",",186,45
+virgula,",",186,50
+fecha_parenteses,")",186,53
+ponto_virgula,";",186,54
+quebra_linha,"\n",186,55
+quebra_linha,"\n",187,0
+espaco," ",188,0
+espaco," ",188,1
+espaco," ",188,2
+espaco," ",188,3
+abre_parenteses,"(",188,16
+abre_colchetes,"[",188,41
+fecha_colchetes,"]",188,44
+virgula,",",188,45
+virgula,",",188,49
+fecha_parenteses,")",188,51
+ponto_virgula,";",188,52
+quebra_linha,"\n",188,53
+quebra_linha,"\n",189,0
+espaco," ",190,0
+espaco," ",190,1
+espaco," ",190,2
+espaco," ",190,3
+abre_parenteses,"(",190,16
+abre_colchetes,"[",190,41
+fecha_colchetes,"]",190,44
+virgula,",",190,45
+virgula,",",190,51
+fecha_parenteses,")",190,54
+ponto_virgula,";",190,55
+quebra_linha,"\n",190,56
+espaco," ",191,0
+espaco," ",191,1
+espaco," ",191,2
+espaco," ",191,3
+abre_parenteses,"(",191,16
+abre_colchetes,"[",191,41
+fecha_colchetes,"]",191,44
+virgula,",",191,45
+virgula,",",191,54
+fecha_parenteses,")",191,57
+ponto_virgula,";",191,58
+quebra_linha,"\n",191,59
+espaco," ",192,0
+espaco," ",192,1
+espaco," ",192,2
+espaco," ",192,3
+abre_parenteses,"(",192,16
+abre_colchetes,"[",192,41
+fecha_colchetes,"]",192,44
+virgula,",",192,45
+virgula,",",192,55
+fecha_parenteses,")",192,58
+ponto_virgula,";",192,59
+quebra_linha,"\n",192,60
+espaco," ",193,0
+espaco," ",193,1
+espaco," ",193,2
+espaco," ",193,3
+abre_parenteses,"(",193,16
+abre_colchetes,"[",193,41
+fecha_colchetes,"]",193,44
+virgula,",",193,45
+virgula,",",193,52
+fecha_parenteses,")",193,55
+ponto_virgula,";",193,56
+quebra_linha,"\n",193,57
+espaco," ",194,0
+espaco," ",194,1
+espaco," ",194,2
+espaco," ",194,3
+abre_parenteses,"(",194,16
+abre_colchetes,"[",194,41
+fecha_colchetes,"]",194,44
+virgula,",",194,45
+virgula,",",194,49
+fecha_parenteses,")",194,52
+ponto_virgula,";",194,53
+quebra_linha,"\n",194,54
+espaco," ",195,0
+espaco," ",195,1
+espaco," ",195,2
+espaco," ",195,3
+abre_parenteses,"(",195,16
+abre_colchetes,"[",195,41
+fecha_colchetes,"]",195,44
+virgula,",",195,45
+virgula,",",195,50
+fecha_parenteses,")",195,53
+ponto_virgula,";",195,54
+quebra_linha,"\n",195,55
+espaco," ",196,0
+espaco," ",196,1
+espaco," ",196,2
+espaco," ",196,3
+abre_parenteses,"(",196,16
+abre_colchetes,"[",196,41
+fecha_colchetes,"]",196,44
+virgula,",",196,45
+virgula,",",196,50
+fecha_parenteses,")",196,53
+ponto_virgula,";",196,54
+quebra_linha,"\n",196,55
+quebra_linha,"\n",197,0
+espaco," ",198,0
+espaco," ",198,1
+espaco," ",198,2
+espaco," ",198,3
+quebra_linha,"\n",198,4
+espaco," ",199,0
+espaco," ",199,1
+espaco," ",199,2
+espaco," ",199,3
+abre_parenteses,"(",199,16
+abre_colchetes,"[",199,41
+fecha_colchetes,"]",199,44
+virgula,",",199,45
+virgula,",",199,50
+fecha_parenteses,")",199,52
+ponto_virgula,";",199,53
+quebra_linha,"\n",199,54
+espaco," ",200,0
+espaco," ",200,1
+espaco," ",200,2
+espaco," ",200,3
+abre_parenteses,"(",200,16
+abre_colchetes,"[",200,41
+fecha_colchetes,"]",200,44
+virgula,",",200,45
+virgula,",",200,49
+fecha_parenteses,")",200,52
+ponto_virgula,";",200,53
+quebra_linha,"\n",200,54
+espaco," ",201,0
+espaco," ",201,1
+espaco," ",201,2
+espaco," ",201,3
+abre_parenteses,"(",201,16
+abre_colchetes,"[",201,41
+fecha_colchetes,"]",201,44
+virgula,",",201,45
+virgula,",",201,51
+fecha_parenteses,")",201,54
+ponto_virgula,";",201,55
+quebra_linha,"\n",201,56
+espaco," ",202,0
+espaco," ",202,1
+espaco," ",202,2
+espaco," ",202,3
+abre_parenteses,"(",202,16
+abre_colchetes,"[",202,41
+fecha_colchetes,"]",202,44
+virgula,",",202,45
+virgula,",",202,54
+fecha_parenteses,")",202,57
+ponto_virgula,";",202,58
+quebra_linha,"\n",202,59
+espaco," ",203,0
+espaco," ",203,1
+espaco," ",203,2
+espaco," ",203,3
+abre_parenteses,"(",203,16
+abre_colchetes,"[",203,41
+fecha_colchetes,"]",203,44
+virgula,",",203,45
+virgula,",",203,55
+fecha_parenteses,")",203,58
+ponto_virgula,";",203,59
+quebra_linha,"\n",203,60
+espaco," ",204,0
+espaco," ",204,1
+espaco," ",204,2
+espaco," ",204,3
+abre_parenteses,"(",204,16
+abre_colchetes,"[",204,41
+fecha_colchetes,"]",204,44
+virgula,",",204,45
+virgula,",",204,52
+fecha_parenteses,")",204,55
+ponto_virgula,";",204,56
+quebra_linha,"\n",204,57
+espaco," ",205,0
+espaco," ",205,1
+espaco," ",205,2
+espaco," ",205,3
+abre_parenteses,"(",205,16
+abre_colchetes,"[",205,41
+fecha_colchetes,"]",205,44
+virgula,",",205,45
+virgula,",",205,49
+fecha_parenteses,")",205,52
+ponto_virgula,";",205,53
+quebra_linha,"\n",205,54
+espaco," ",206,0
+espaco," ",206,1
+espaco," ",206,2
+espaco," ",206,3
+abre_parenteses,"(",206,16
+abre_colchetes,"[",206,41
+fecha_colchetes,"]",206,44
+virgula,",",206,45
+virgula,",",206,50
+fecha_parenteses,")",206,53
+ponto_virgula,";",206,54
+quebra_linha,"\n",206,55
+espaco," ",207,0
+espaco," ",207,1
+espaco," ",207,2
+espaco," ",207,3
+abre_parenteses,"(",207,16
+abre_colchetes,"[",207,41
+fecha_colchetes,"]",207,44
+virgula,",",207,45
+virgula,",",207,50
+fecha_parenteses,")",207,53
+ponto_virgula,";",207,54
+quebra_linha,"\n",207,55
+quebra_linha,"\n",208,0
+espaco," ",209,0
+espaco," ",209,1
+espaco," ",209,2
+espaco," ",209,3
+abre_parenteses,"(",209,16
+abre_colchetes,"[",209,41
+fecha_colchetes,"]",209,44
+virgula,",",209,45
+virgula,",",209,50
+fecha_parenteses,")",209,52
+ponto_virgula,";",209,53
+quebra_linha,"\n",209,54
+espaco," ",210,0
+espaco," ",210,1
+espaco," ",210,2
+espaco," ",210,3
+abre_parenteses,"(",210,16
+abre_colchetes,"[",210,41
+fecha_colchetes,"]",210,44
+virgula,",",210,45
+virgula,",",210,49
+fecha_parenteses,")",210,52
+ponto_virgula,";",210,53
+quebra_linha,"\n",210,54
+espaco," ",211,0
+espaco," ",211,1
+espaco," ",211,2
+espaco," ",211,3
+abre_parenteses,"(",211,16
+abre_colchetes,"[",211,41
+fecha_colchetes,"]",211,44
+virgula,",",211,45
+virgula,",",211,51
+fecha_parenteses,")",211,54
+ponto_virgula,";",211,55
+quebra_linha,"\n",211,56
+espaco," ",212,0
+espaco," ",212,1
+espaco," ",212,2
+espaco," ",212,3
+abre_parenteses,"(",212,16
+abre_colchetes,"[",212,41
+fecha_colchetes,"]",212,44
+virgula,",",212,45
+virgula,",",212,54
+fecha_parenteses,")",212,57
+ponto_virgula,";",212,58
+quebra_linha,"\n",212,59
+espaco," ",213,0
+espaco," ",213,1
+espaco," ",213,2
+espaco," ",213,3
+abre_parenteses,"(",213,16
+abre_colchetes,"[",213,41
+fecha_colchetes,"]",213,44
+virgula,",",213,45
+virgula,",",213,55
+fecha_parenteses,")",213,58
+ponto_virgula,";",213,59
+quebra_linha,"\n",213,60
+espaco," ",214,0
+espaco," ",214,1
+espaco," ",214,2
+espaco," ",214,3
+abre_parenteses,"(",214,16
+abre_colchetes,"[",214,41
+fecha_colchetes,"]",214,44
+virgula,",",214,45
+virgula,",",214,52
+fecha_parenteses,")",214,55
+ponto_virgula,";",214,56
+quebra_linha,"\n",214,57
+espaco," ",215,0
+espaco," ",215,1
+espaco," ",215,2
+espaco," ",215,3
+abre_parenteses,"(",215,16
+abre_colchetes,"[",215,41
+fecha_colchetes,"]",215,44
+virgula,",",215,45
+virgula,",",215,49
+fecha_parenteses,")",215,52
+ponto_virgula,";",215,53
+quebra_linha,"\n",215,54
+espaco," ",216,0
+espaco," ",216,1
+espaco," ",216,2
+espaco," ",216,3
+abre_parenteses,"(",216,16
+abre_colchetes,"[",216,41
+fecha_colchetes,"]",216,44
+virgula,",",216,45
+virgula,",",216,50
+fecha_parenteses,")",216,53
+ponto_virgula,";",216,54
+quebra_linha,"\n",216,55
+espaco," ",217,0
+espaco," ",217,1
+espaco," ",217,2
+espaco," ",217,3
+abre_parenteses,"(",217,16
+abre_colchetes,"[",217,41
+fecha_colchetes,"]",217,44
+virgula,",",217,45
+virgula,",",217,50
+fecha_parenteses,")",217,53
+ponto_virgula,";",217,54
+quebra_linha,"\n",217,55
+quebra_linha,"\n",218,0
+espaco," ",219,0
+espaco," ",219,1
+espaco," ",219,2
+espaco," ",219,3
+abre_parenteses,"(",219,16
+abre_colchetes,"[",219,41
+fecha_colchetes,"]",219,44
+virgula,",",219,45
+virgula,",",219,49
+fecha_parenteses,")",219,52
+ponto_virgula,";",219,53
+quebra_linha,"\n",219,54
+espaco," ",220,0
+espaco," ",220,1
+espaco," ",220,2
+espaco," ",220,3
+abre_parenteses,"(",220,16
+abre_colchetes,"[",220,41
+fecha_colchetes,"]",220,44
+virgula,",",220,45
+virgula,",",220,49
+fecha_parenteses,")",220,52
+ponto_virgula,";",220,53
+quebra_linha,"\n",220,54
+espaco," ",221,0
+espaco," ",221,1
+espaco," ",221,2
+espaco," ",221,3
+abre_parenteses,"(",221,16
+abre_colchetes,"[",221,41
+fecha_colchetes,"]",221,44
+virgula,",",221,45
+virgula,",",221,50
+fecha_parenteses,")",221,53
+ponto_virgula,";",221,54
+quebra_linha,"\n",221,55
+espaco," ",222,0
+espaco," ",222,1
+espaco," ",222,2
+espaco," ",222,3
+abre_parenteses,"(",222,16
+abre_colchetes,"[",222,41
+fecha_colchetes,"]",222,44
+virgula,",",222,45
+virgula,",",222,49
+fecha_parenteses,")",222,52
+ponto_virgula,";",222,53
+quebra_linha,"\n",222,54
+espaco," ",223,0
+espaco," ",223,1
+espaco," ",223,2
+espaco," ",223,3
+abre_parenteses,"(",223,16
+abre_colchetes,"[",223,41
+fecha_colchetes,"]",223,44
+virgula,",",223,45
+virgula,",",223,51
+fecha_parenteses,")",223,54
+ponto_virgula,";",223,55
+quebra_linha,"\n",223,56
+espaco," ",224,0
+espaco," ",224,1
+espaco," ",224,2
+espaco," ",224,3
+abre_parenteses,"(",224,16
+abre_colchetes,"[",224,41
+fecha_colchetes,"]",224,44
+virgula,",",224,45
+virgula,",",224,54
+fecha_parenteses,")",224,57
+ponto_virgula,";",224,58
+quebra_linha,"\n",224,59
+espaco," ",225,0
+espaco," ",225,1
+espaco," ",225,2
+espaco," ",225,3
+abre_parenteses,"(",225,16
+abre_colchetes,"[",225,41
+fecha_colchetes,"]",225,44
+virgula,",",225,45
+virgula,",",225,55
+fecha_parenteses,")",225,58
+ponto_virgula,";",225,59
+quebra_linha,"\n",225,60
+espaco," ",226,0
+espaco," ",226,1
+espaco," ",226,2
+espaco," ",226,3
+abre_parenteses,"(",226,16
+abre_colchetes,"[",226,41
+fecha_colchetes,"]",226,44
+virgula,",",226,45
+virgula,",",226,52
+fecha_parenteses,")",226,55
+ponto_virgula,";",226,56
+quebra_linha,"\n",226,57
+espaco," ",227,0
+espaco," ",227,1
+espaco," ",227,2
+espaco," ",227,3
+abre_parenteses,"(",227,16
+abre_colchetes,"[",227,41
+fecha_colchetes,"]",227,44
+virgula,",",227,45
+virgula,",",227,49
+fecha_parenteses,")",227,52
+ponto_virgula,";",227,53
+quebra_linha,"\n",227,54
+espaco," ",228,0
+espaco," ",228,1
+espaco," ",228,2
+espaco," ",228,3
+abre_parenteses,"(",228,16
+abre_colchetes,"[",228,41
+fecha_colchetes,"]",228,44
+virgula,",",228,45
+virgula,",",228,50
+fecha_parenteses,")",228,53
+ponto_virgula,";",228,54
+quebra_linha,"\n",228,55
+espaco," ",229,0
+espaco," ",229,1
+espaco," ",229,2
+espaco," ",229,3
+abre_parenteses,"(",229,16
+abre_colchetes,"[",229,41
+fecha_colchetes,"]",229,44
+virgula,",",229,45
+virgula,",",229,50
+fecha_parenteses,")",229,53
+ponto_virgula,";",229,54
+quebra_linha,"\n",229,55
+quebra_linha,"\n",230,0
+espaco," ",231,0
+espaco," ",231,1
+espaco," ",231,2
+espaco," ",231,3
+abre_parenteses,"(",231,16
+abre_colchetes,"[",231,41
+fecha_colchetes,"]",231,44
+virgula,",",231,45
+virgula,",",231,49
+fecha_parenteses,")",231,51
+ponto_virgula,";",231,52
+quebra_linha,"\n",231,53
+espaco," ",232,0
+espaco," ",232,1
+espaco," ",232,2
+espaco," ",232,3
+abre_parenteses,"(",232,16
+abre_colchetes,"[",232,41
+fecha_colchetes,"]",232,44
+virgula,",",232,45
+virgula,",",232,50
+fecha_parenteses,")",232,53
+ponto_virgula,";",232,54
+quebra_linha,"\n",232,55
+espaco," ",233,0
+espaco," ",233,1
+espaco," ",233,2
+espaco," ",233,3
+abre_parenteses,"(",233,16
+abre_colchetes,"[",233,41
+fecha_colchetes,"]",233,44
+virgula,",",233,45
+virgula,",",233,49
+fecha_parenteses,")",233,52
+ponto_virgula,";",233,53
+quebra_linha,"\n",233,54
+espaco," ",234,0
+espaco," ",234,1
+espaco," ",234,2
+espaco," ",234,3
+abre_parenteses,"(",234,16
+abre_colchetes,"[",234,41
+fecha_colchetes,"]",234,44
+virgula,",",234,45
+virgula,",",234,51
+fecha_parenteses,")",234,54
+ponto_virgula,";",234,55
+quebra_linha,"\n",234,56
+espaco," ",235,0
+espaco," ",235,1
+espaco," ",235,2
+espaco," ",235,3
+abre_parenteses,"(",235,16
+abre_colchetes,"[",235,41
+fecha_colchetes,"]",235,44
+virgula,",",235,45
+virgula,",",235,54
+fecha_parenteses,")",235,57
+ponto_virgula,";",235,58
+quebra_linha,"\n",235,59
+espaco," ",236,0
+espaco," ",236,1
+espaco," ",236,2
+espaco," ",236,3
+abre_parenteses,"(",236,16
+abre_colchetes,"[",236,41
+fecha_colchetes,"]",236,44
+virgula,",",236,45
+virgula,",",236,55
+fecha_parenteses,")",236,58
+ponto_virgula,";",236,59
+quebra_linha,"\n",236,60
+espaco," ",237,0
+espaco," ",237,1
+espaco," ",237,2
+espaco," ",237,3
+abre_parenteses,"(",237,16
+abre_colchetes,"[",237,41
+fecha_colchetes,"]",237,44
+virgula,",",237,45
+virgula,",",237,52
+fecha_parenteses,")",237,55
+ponto_virgula,";",237,56
+quebra_linha,"\n",237,57
+espaco," ",238,0
+espaco," ",238,1
+espaco," ",238,2
+espaco," ",238,3
+abre_parenteses,"(",238,16
+abre_colchetes,"[",238,41
+fecha_colchetes,"]",238,44
+virgula,",",238,45
+virgula,",",238,49
+fecha_parenteses,")",238,52
+ponto_virgula,";",238,53
+quebra_linha,"\n",238,54
+espaco," ",239,0
+espaco," ",239,1
+espaco," ",239,2
+espaco," ",239,3
+abre_parenteses,"(",239,16
+abre_colchetes,"[",239,41
+fecha_colchetes,"]",239,44
+virgula,",",239,45
+virgula,",",239,50
+fecha_parenteses,")",239,53
+ponto_virgula,";",239,54
+quebra_linha,"\n",239,55
+espaco," ",240,0
+espaco," ",240,1
+espaco," ",240,2
+espaco," ",240,3
+abre_parenteses,"(",240,16
+abre_colchetes,"[",240,41
+fecha_colchetes,"]",240,44
+virgula,",",240,45
+virgula,",",240,50
+fecha_parenteses,")",240,53
+ponto_virgula,";",240,54
+quebra_linha,"\n",240,55
+quebra_linha,"\n",241,0
+espaco," ",242,0
+espaco," ",242,1
+espaco," ",242,2
+espaco," ",242,3
+abre_parenteses,"(",242,16
+abre_colchetes,"[",242,41
+fecha_colchetes,"]",242,44
+virgula,",",242,45
+virgula,",",242,49
+fecha_parenteses,")",242,52
+ponto_virgula,";",242,53
+quebra_linha,"\n",242,54
+espaco," ",243,0
+espaco," ",243,1
+espaco," ",243,2
+espaco," ",243,3
+abre_parenteses,"(",243,16
+abre_colchetes,"[",243,41
+fecha_colchetes,"]",243,44
+virgula,",",243,45
+virgula,",",243,49
+fecha_parenteses,")",243,52
+ponto_virgula,";",243,53
+quebra_linha,"\n",243,54
+espaco," ",244,0
+espaco," ",244,1
+espaco," ",244,2
+espaco," ",244,3
+abre_parenteses,"(",244,16
+abre_colchetes,"[",244,41
+fecha_colchetes,"]",244,44
+virgula,",",244,45
+virgula,",",244,50
+fecha_parenteses,")",244,53
+ponto_virgula,";",244,54
+quebra_linha,"\n",244,55
+espaco," ",245,0
+espaco," ",245,1
+espaco," ",245,2
+espaco," ",245,3
+abre_parenteses,"(",245,16
+abre_colchetes,"[",245,41
+fecha_colchetes,"]",245,44
+virgula,",",245,45
+virgula,",",245,49
+fecha_parenteses,")",245,52
+ponto_virgula,";",245,53
+quebra_linha,"\n",245,54
+espaco," ",246,0
+espaco," ",246,1
+espaco," ",246,2
+espaco," ",246,3
+abre_parenteses,"(",246,16
+abre_colchetes,"[",246,41
+fecha_colchetes,"]",246,44
+virgula,",",246,45
+virgula,",",246,51
+fecha_parenteses,")",246,54
+ponto_virgula,";",246,55
+quebra_linha,"\n",246,56
+espaco," ",247,0
+espaco," ",247,1
+espaco," ",247,2
+espaco," ",247,3
+abre_parenteses,"(",247,16
+abre_colchetes,"[",247,41
+fecha_colchetes,"]",247,44
+virgula,",",247,45
+virgula,",",247,54
+fecha_parenteses,")",247,57
+ponto_virgula,";",247,58
+quebra_linha,"\n",247,59
+espaco," ",248,0
+espaco," ",248,1
+espaco," ",248,2
+espaco," ",248,3
+abre_parenteses,"(",248,16
+abre_colchetes,"[",248,41
+fecha_colchetes,"]",248,44
+virgula,",",248,45
+virgula,",",248,55
+fecha_parenteses,")",248,58
+ponto_virgula,";",248,59
+quebra_linha,"\n",248,60
+espaco," ",249,0
+espaco," ",249,1
+espaco," ",249,2
+espaco," ",249,3
+abre_parenteses,"(",249,16
+abre_colchetes,"[",249,41
+fecha_colchetes,"]",249,44
+virgula,",",249,45
+virgula,",",249,52
+fecha_parenteses,")",249,55
+ponto_virgula,";",249,56
+quebra_linha,"\n",249,57
+espaco," ",250,0
+espaco," ",250,1
+espaco," ",250,2
+espaco," ",250,3
+abre_parenteses,"(",250,16
+abre_colchetes,"[",250,41
+fecha_colchetes,"]",250,44
+virgula,",",250,45
+virgula,",",250,49
+fecha_parenteses,")",250,52
+ponto_virgula,";",250,53
+quebra_linha,"\n",250,54
+espaco," ",251,0
+espaco," ",251,1
+espaco," ",251,2
+espaco," ",251,3
+abre_parenteses,"(",251,16
+abre_colchetes,"[",251,41
+fecha_colchetes,"]",251,44
+virgula,",",251,45
+virgula,",",251,50
+fecha_parenteses,")",251,53
+ponto_virgula,";",251,54
+quebra_linha,"\n",251,55
+espaco," ",252,0
+espaco," ",252,1
+espaco," ",252,2
+espaco," ",252,3
+abre_parenteses,"(",252,16
+abre_colchetes,"[",252,41
+fecha_colchetes,"]",252,44
+virgula,",",252,45
+virgula,",",252,50
+fecha_parenteses,")",252,53
+ponto_virgula,";",252,54
+quebra_linha,"\n",252,55
+espaco," ",253,0
+espaco," ",253,1
+espaco," ",253,2
+espaco," ",253,3
+quebra_linha,"\n",253,49
+fecha_chaves,"}",254,0
+quebra_linha,"\n",254,1

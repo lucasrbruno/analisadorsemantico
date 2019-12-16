@@ -1,0 +1,4 @@
+diretiva,"#include "../headers/utils.h"",1,1
+diretiva,"#include <stdio.h>",2,1
+diretiva,"#include <stdlib.h>",3,1
+diretiva,"#'){",323,19

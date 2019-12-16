@@ -1,0 +1,21 @@
+comentario,"// Funcao getopt(), (entrada por parametros).",12,2
+comentario,"//char tabela",33,5
+comentario,"//char comentario = '//';",34,5
+comentario,"//char literal = ''','"';",35,5
+comentario,"//iniciarTabelaAscii(tabela",37,5
+comentario,"//Descobrir tamanho do arquivo",42,5
+comentario,"//Armazenar o arquivo em vetor",49,5
+comentario,"//Iniciar automato.",67,5
+comentario,"//Inicializar lista de tokens (identificadores)",78,5
+comentario,"/*
+    for(i=0;i<32;i++){
+        printf("Estado %d\n",i);
+        int j;
+        Transicao *aux = automato->estados[i].primeira;
+        for(j=0;j<automato->estados[i].numTransicoes;j++){
+            printf("[%d] %s\n",j,aux->conjunto);
+            aux = aux->proxima;
+        }
+        printf("\n");
+    }
+    */",95,-307

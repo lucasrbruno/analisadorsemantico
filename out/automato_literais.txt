@@ -1,0 +1,63 @@
+aspas_simples,"'\0'",21,35
+aspas_duplas,""%s%c"",25,36
+aspas_duplas,""%c"",30,40
+aspas_duplas,""%s%c"",33,40
+aspas_duplas,""\0"",53,23
+aspas_simples,"'\0'",57,39
+aspas_duplas,""%s%c"",61,40
+aspas_duplas,""%c"",66,44
+aspas_duplas,""%s%c"",69,44
+aspas_duplas,"",15);
+    inserirLista(&maquinaEstados->estados[0],"""",110,-5
+aspas_duplas,""'"",111,46
+aspas_duplas,"",1);
+    inserirLista(&maquinaEstados->estados[1],NUMERO,1);
+    inserirLista(&maquinaEstados->estados[1],SEPARADOR,0);
+
+    inserirLista(&maquinaEstados->estados[2],NUMERO,3);
+    inserirLista(&maquinaEstados->estados[2],"",121,-177
+aspas_duplas,"",0);
+
+    inserirLista(&maquinaEstados->estados[16],"",17);
+    inserirLista(&maquinaEstados->estados[16],"""",165,-59
+aspas_duplas,""'"",166,47
+aspas_duplas,""'"",176,47
+aspas_duplas,""\\"",177,47
+aspas_duplas,""\""",178,47
+aspas_duplas,""'"",184,47
+aspas_duplas,""\""",185,47
+aspas_duplas,""\\"",186,47
+aspas_duplas,""'"",188,47
+aspas_duplas,""'"",194,47
+aspas_duplas,""\""",195,47
+aspas_duplas,""\\"",196,47
+aspas_duplas,""\n"",199,47
+aspas_duplas,""."",200,47
+aspas_duplas,""'"",205,47
+aspas_duplas,""\""",206,47
+aspas_duplas,""\\"",207,47
+aspas_duplas,""\n"",209,47
+aspas_duplas,""."",210,47
+aspas_duplas,""'"",215,47
+aspas_duplas,""\""",216,47
+aspas_duplas,""\\"",217,47
+aspas_duplas,""*"",219,47
+aspas_duplas,""/"",220,47
+aspas_duplas,""\n"",221,47
+aspas_duplas,""."",222,47
+aspas_duplas,""'"",227,47
+aspas_duplas,""\""",228,47
+aspas_duplas,""\\"",229,47
+aspas_duplas,""/"",231,47
+aspas_duplas,""\n"",232,47
+aspas_duplas,""."",233,47
+aspas_duplas,""'"",238,47
+aspas_duplas,""\""",239,47
+aspas_duplas,""\\"",240,47
+aspas_duplas,""*"",242,47
+aspas_duplas,""/"",243,47
+aspas_duplas,""\n"",244,47
+aspas_duplas,""."",245,47
+aspas_duplas,""'"",250,47
+aspas_duplas,""\""",251,47
+aspas_duplas,""\\"",252,47

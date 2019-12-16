@@ -1,0 +1,3 @@
+aspas_duplas,""teste xd"",43,9
+aspas_simples,"'x'",44,9
+aspas_duplas,""flavio xd %d"",46,10

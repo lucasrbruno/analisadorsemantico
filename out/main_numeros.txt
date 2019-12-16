@@ -1,0 +1,13 @@
+numero,"0",9,16
+numero,"1",13,49
+numero,"0",20,23
+numero,"0",21,10
+numero,"0",24,10
+numero,"2",27,12
+numero,"0",29,8
+numero,"0",40,27
+numero,"0",52,7
+numero,"0",57,7
+numero,"0",69,29
+numero,"0",72,11
+numero,"0",97,12

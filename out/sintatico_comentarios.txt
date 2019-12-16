@@ -1,0 +1,3 @@
+comentario,"//freeListaToken(listaToken);",18,5
+comentario,"//freeListaToken(listaTokenIdentificadores);",19,5
+comentario,"//printf("Consumir Token %s\n",aux->valorBruto);",41,5

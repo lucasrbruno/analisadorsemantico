@@ -1,0 +1,88 @@
+comentario,"/*
+char LETRA[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+char SEPARADOR[] = "S";
+char COMENTARIO[] = "//";
+char IDENTIFICADOR[] = "I";
+char NUMERO[] = "0123456789";
+char OPERADOR[] = "+*%/=<>!|&~^-?";
+char NULO = '-';
+*/",13,-234
+comentario,"/*
+void iniciarLetras(char *vetor){
+    int i;
+    for(i = 0; i < 128; i++){
+        vetor[i] = '-';
+    }
+
+    for(i = 65; i <= 90; i++){
+        vetor[i] = LETRA;
+    }
+    for(i = 97; i <= 122; i++){
+        vetor[i] = LETRA;
+    }
+}
+
+void iniciarNumeros(char *vetor){
+    int i;
+
+    for(i = 48; i <= 57; i++){
+        vetor[i] = NUMERO;
+    }
+}
+
+void iniciarOperadores(char *vetor){
+    vetor[43] = OPERADOR;
+    vetor[42] = OPERADOR;
+    vetor[47] = OPERADOR;
+    vetor[37] = OPERADOR;
+    vetor[61] = OPERADOR;
+    vetor[60] = OPERADOR;
+    vetor[62] = OPERADOR;
+    vetor[33] = OPERADOR;
+    vetor[124] = OPERADOR;
+    vetor[38] = OPERADOR;
+    vetor[126] = OPERADOR;
+    vetor[94] = OPERADOR;
+    vetor[45] = OPERADOR;
+    vetor[63] = OPERADOR;
+}
+
+void iniciarSeparadores(char *vetor){
+    vetor[94] = SEPARADOR;
+    vetor[59] = SEPARADOR;
+}
+
+void iniciarTabelaAscii(char *vetor){
+    iniciarLetras(vetor);
+    iniciarNumeros(vetor);
+    iniciarOperadores(vetor);
+    iniciarSeparadores(vetor);
+}
+*/",114,-1005
+comentario,"//Inicia uma celula para receber um lista.",124,1
+comentario,"//Insere valores em uma lista.",134,1
+comentario,"//Inicia uma celula para receber um lista.",167,1
+comentario,"//Insere valores em uma lista.",177,1
+comentario,"//printf("%ld -- %d %d\n",strlen(valor),LINHA,COLUNA);",182,5
+comentario,"//printf("%s\n",aux->valorBruto);",233,9
+comentario,"//printf("%s\n",aux->valorBruto);",240,5
+comentario,"//printf("-----Estado %d\n",i);",252,9
+comentario,"//printf("[%s]\n",aux->conjunto);",266,13
+comentario,"//printf("{%s}\n",aux->conjunto);",272,9
+comentario,"//printf("\n");",274,9
+comentario,"//free(estado",276,9
+comentario,"//printf("Maquina estados xd\n");",278,5
+comentario,"/*
+Transicao *ultimoLista(Transicao *primeiro){
+    Transicao *aux = primeiro;
+    if(aux == NULL){
+        return NULL;
+    }
+    while(true){
+        if(aux->proxima == NULL){
+            return aux;
+        }
+        aux = aux->proxima;
+    }
+}
+*/",295,-247

@@ -1,0 +1,4 @@
+diretiva,"#include <stdio.h>",1,1
+diretiva,"#include "../headers/utils.h"",2,1
+diretiva,"#include "../headers/lexico.h"",3,1
+diretiva,"#",21);",112,47

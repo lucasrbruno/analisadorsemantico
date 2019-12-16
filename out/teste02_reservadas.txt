@@ -1,0 +1,6 @@
+int,"int",5,1
+char,"char",6,2
+char,"char",8,2
+int,"int",10,2
+int,"int",12,2
+return,"return",14,2

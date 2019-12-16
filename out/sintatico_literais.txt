@@ -1,0 +1,4 @@
+aspas_duplas,""Analise Sintatica: SUCESSO.\n"",13,16
+aspas_duplas,""Analise Sintatica: ERRO.\n"",15,16
+aspas_duplas,""Lista de tokens vazia!"",24,16
+aspas_duplas,""Lista de tokens vazia!"",30,16

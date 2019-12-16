@@ -1,0 +1,5 @@
+comentario,"//Estado *e = malloc(sizeof(Estado));",12,5
+comentario,"//if(!achou){",45,5
+comentario,"//    (*valido) = 0; ",46,5
+comentario,"//}",47,5
+comentario,"//inserirLista(&maquinaEstados->estados[],,);",253,5

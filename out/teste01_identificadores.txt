@@ -1,0 +1,13 @@
+identificador,"main",5,5
+identificador,"a",6,7
+identificador,"a",7,2
+identificador,"abc",8,7
+identificador,"abc",9,2
+identificador,"i",10,6
+identificador,"i",11,2
+identificador,"i",12,6
+identificador,"b",13,6
+identificador,"b",14,2
+identificador,"i",14,6
+identificador,"abc",14,10
+identificador,"c",15,9

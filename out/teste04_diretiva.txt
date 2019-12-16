@@ -1,0 +1,2 @@
+diretiva,"#include <stdio.h>",1,1
+diretiva,"#include <stdlib.h>",2,1
